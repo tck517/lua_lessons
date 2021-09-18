@@ -1,4 +1,4 @@
-local first = "Hello,"
+local first = "Hello"
 local second = " "
 local third = "Daniel"
 
